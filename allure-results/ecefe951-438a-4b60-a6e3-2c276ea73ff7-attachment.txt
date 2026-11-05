@@ -1,0 +1,7 @@
+locator('div.card-body b')
+3
+ADIDAS ORIGINAL
+ZARA COAT 3
+Promise { <pending> }
+3
+6ad70a0a93b084c41f5b5265
